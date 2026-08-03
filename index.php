@@ -113,7 +113,7 @@ function truncateExcerpt($text, $limit = 100) {
   plausible.init()
 </script>
 
-
+<style>
 
         /* ----- CSS Reset & Base Styles ----- */
         * {
